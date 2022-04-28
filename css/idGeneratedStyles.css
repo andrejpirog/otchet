@@ -72,10 +72,33 @@ td.CellOverride-3 {
 td.CellOverride-4 {
 	border-top-color:#000000;
 }
+td.CellOverride-5 {
+	border-bottom-width:2px;
+}
+td.CellOverride-6 {
+	border-bottom-width:2px;
+	border-left-width:2px;
+	border-top-width:2px;
+}
+td.CellOverride-7 {
+	border-bottom-width:2px;
+	border-top-width:2px;
+}
+td.CellOverride-8 {
+	border-bottom-width:2px;
+	border-right-width:2px;
+	border-top-width:2px;
+}
 span.CharOverride-1 {
 	font-family:"Myriad Pro", sans-serif;
+	font-size:10px;
 	font-style:normal;
 	font-weight:normal;
+}
+td._idGenCellOverride-1 {
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	border-bottom-width:2px;
 }
 col._idGenTableRowColumn-1 {
 	width:42px;
@@ -96,11 +119,8 @@ col._idGenTableRowColumn-6 {
 	width:75px;
 }
 tr._idGenTableRowColumn-7 {
-	min-height:17px;
+	min-height:16px;
 }
 tr._idGenTableRowColumn-8 {
-	min-height:75px;
-}
-tr._idGenTableRowColumn-9 {
-	min-height:10px;
+	min-height:17px;
 }
