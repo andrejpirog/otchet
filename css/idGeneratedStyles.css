@@ -124,12 +124,3 @@ tr._idGenTableRowColumn-7 {
 tr._idGenTableRowColumn-8 {
 	min-height:17px;
 }
-#jpg {
-	display: flex;
-
-	align-items: center;
-	justify-content: center;
-	width: 15%;
-	height: 40px;
-	background: #9dcfe1;
-}
