@@ -57,35 +57,124 @@ p.основной-абзац {
 	text-transform:none;
 	widows:1;
 }
+span.Гиперссылка {
+	color:#275b9b;
+	text-decoration:underline;
+}
 td.CellOverride-1 {
-	border-bottom-color:#000000;
-}
-td.CellOverride-2 {
-	border-bottom-color:#000000;
-	border-left-color:#000000;
-	border-right-color:#000000;
-	border-top-color:#000000;
-}
-td.CellOverride-3 {
-	border-left-color:#000000;
-}
-td.CellOverride-4 {
-	border-top-color:#000000;
-}
-td.CellOverride-5 {
-	border-bottom-width:2px;
-}
-td.CellOverride-6 {
+	border-bottom-color:#262626;
 	border-bottom-width:2px;
 	border-left-width:2px;
+	border-right-width:1px;
+	border-top-width:2px;
+}
+td.CellOverride-2 {
+	border-bottom-width:2px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:2px;
+}
+td.CellOverride-3 {
+	border-bottom-width:2px;
+	border-left-width:1px;
+	border-right-width:2px;
+	border-top-width:2px;
+}
+td.CellOverride-4 {
+	border-bottom-color:#404040;
+	border-bottom-width:1px;
+	border-left-color:#262626;
+	border-left-width:2px;
+	border-right-color:#262626;
+	border-right-width:2px;
+	border-top-color:#262626;
+	border-top-width:2px;
+}
+td.CellOverride-5 {
+	border-bottom-width:1px;
+	border-left-color:#262626;
+	border-left-width:2px;
+	border-right-width:1px;
+	border-top-width:2px;
+}
+td.CellOverride-6 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
 	border-top-width:2px;
 }
 td.CellOverride-7 {
-	border-bottom-width:2px;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:2px;
 	border-top-width:2px;
 }
 td.CellOverride-8 {
+	border-bottom-width:1px;
+	border-left-width:2px;
+	border-right-width:2px;
+	border-top-width:2px;
+}
+td.CellOverride-9 {
+	border-bottom-width:1px;
+	border-left-color:#262626;
+	border-left-width:2px;
+	border-right-width:1px;
+	border-top-width:1px;
+}
+td.CellOverride-10 {
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+}
+td.CellOverride-11 {
 	border-bottom-width:2px;
+	border-left-color:#262626;
+	border-left-width:2px;
+	border-right-width:1px;
+	border-top-width:1px;
+}
+td.CellOverride-12 {
+	border-bottom-width:2px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-top-width:1px;
+}
+td.CellOverride-13 {
+	border-bottom-width:1px;
+	border-left-width:2px;
+	border-right-width:2px;
+	border-top-color:#262626;
+	border-top-width:2px;
+}
+td.CellOverride-14 {
+	border-bottom-width:1px;
+	border-left-width:2px;
+	border-right-width:1px;
+	border-top-width:2px;
+}
+td.CellOverride-15 {
+	border-bottom-width:1px;
+	border-left-width:2px;
+	border-right-width:1px;
+	border-top-width:1px;
+}
+td.CellOverride-16 {
+	border-bottom-width:2px;
+	border-left-width:2px;
+	border-right-width:1px;
+	border-top-width:1px;
+}
+td.CellOverride-17 {
+	border-bottom-width:2px;
+	border-left-width:2px;
+	border-right-width:1px;
+	border-top-width:2px;
+}
+td.CellOverride-18 {
+	border-bottom-width:2px;
+	border-left-width:2px;
 	border-right-width:2px;
 	border-top-width:2px;
 }
@@ -96,7 +185,12 @@ span.CharOverride-1 {
 	font-weight:normal;
 }
 td._idGenCellOverride-1 {
-	border-bottom-color:#000000;
+	border-bottom-color:#262626;
+	border-bottom-style:solid;
+	border-bottom-width:2px;
+}
+td._idGenCellOverride-2 {
+	border-bottom-color:#4a4a49;
 	border-bottom-style:solid;
 	border-bottom-width:2px;
 }
